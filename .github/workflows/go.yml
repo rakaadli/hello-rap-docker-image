@@ -34,4 +34,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: rakaadli/rapstartupgo:plain
+          tags: rakaadli/hello-raka:plain
